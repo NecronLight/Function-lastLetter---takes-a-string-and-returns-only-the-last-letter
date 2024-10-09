@@ -1,3 +1,5 @@
+This JavaScript function extracts and displays the last letter of a given text string.
+
 Explanation:
 1. The function takes a text string as input.
 2. It determines the length of the text using text.length.
